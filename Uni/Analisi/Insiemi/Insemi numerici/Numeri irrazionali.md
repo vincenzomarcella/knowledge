@@ -1,0 +1,1 @@
+I numeri irrazionali sono quei numeri che al contrario dei [[Numeri razionali]] non sono rappresentabili con una frazione

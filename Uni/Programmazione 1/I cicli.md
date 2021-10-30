@@ -1,0 +1,3 @@
+Tags: #Programmazione1 #Iterazione
+## I cicli
+I cicli sono un costrutto che permette la ripetizione di un determinato [[Blocco di codice|blocco di codice]]. Il blocco di istruzioni contenuto del costrutto è detto corpo e ogni esecuzione del blocco di istruzioni si chiama iterazione. Nei cicli si deve definire una condizione per la quale il ciclo deve terminare. Ovviamente si possono definire delle condizioni impossibili per fare dei cicli infiniti ma esse sono sconsigliate.

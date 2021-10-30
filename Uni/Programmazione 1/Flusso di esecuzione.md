@@ -1,0 +1,3 @@
+Tags: #Programmazione1 
+# Flusso di esecuzione
+Il flusso di esecuzione(o flusso di controllo) definisce l'ordine in cui un programma esegue le istruzioni, esso si può diramare grazie a vari costrutti grazie alle [[Istruzioni condizionali|istruzioni condizionali]] e grazie ai [[I cicli|cicli]]. Esso inizia al momento dell'inizio dell'esecuzioine e termina alla fine del programma con un crash o in maniera normale. in Java con l'istruzione `System.exit()` si può interrompere il flusso di esecuzione in maniera normale in qualsiasi punto del codice.

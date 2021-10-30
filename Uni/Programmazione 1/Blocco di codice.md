@@ -1,0 +1,3 @@
+Tags: #Programmazione1 
+## Un blocco
+Un blocco è una porzione di codice delimitata da un paio di parantesi graffe, i blocchi possono essere annidati e essi definiscono delle sezioni di codice con delle istruzioni e vanno ad influenzare la visibilità delle variabili. Infatti una [[Variabile|variabile]] dichiarata in un determinato blocco è solitamente visibile solo agli elementi nel blocco stesso e nei blocchi annidati. Oltretutto, quando l'esecuzione di un blocco viene terminata, la memoria occupata dalla [[Variabile|variabile]]  viene liberata.

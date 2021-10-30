@@ -1,0 +1,3 @@
+Tags: #Programmazione1 #Selezione 
+# Le istruzioni condizionali
+Le istruzioni condizionali sono una categoria di istruzioni atta ad agire sul [[Flusso di esecuzione|flusso di controllo]]. Questo tipo di istruzioni si occupa di diramare il flusso di controllo in base ad una condizione. Ci sono vari costrutti possibili per la diramazione del flusso di controllo, detto ciò, tradizionalmente la diramazione avviene con le [[If-else statements|if-else statements]].

@@ -1,0 +1,3 @@
+- VM con linguaggi preinstallati: https://replit.com
+- Kanban plugin: https://github.com/mgmeyers/obsidian-kanban
+- SPACE productivity framework: https://queue.acm.org/detail.cfm?id=3454124
